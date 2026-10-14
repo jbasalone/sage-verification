@@ -12,10 +12,4 @@ have opted in with `sage start`.
 
 ## Screenshots
 
-| file | what it shows |
-|---|---|
-| `screenshots/01-hunt-source.png` | EPIC RPG posting a hunt result, and `sage hunt 24h` reporting totals built from those messages — the whole use case for Message Content |
-| `screenshots/02-opt-in.png` | `sage start` — nothing is recorded until a player runs it |
-| `screenshots/03-delete.png` | `sage deletemydata`, and its confirmation step |
-| `screenshots/04-help.png` | `sage help` — the command surface |
-| `screenshots/05-help-privacy-terms-access.png` | `sage about` - policy, data usage, and credits |
+Being retaken with `/sage` commands for the second application.
