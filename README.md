@@ -12,4 +12,10 @@ have opted in with `sage start`.
 
 ## Screenshots
 
-Being retaken with `/sage` commands for the second application.
+| file | what it shows |
+|---|---|
+| `screenshots/01-hunt-source.png` | EPIC RPG's own `/hunt` posting a result nobody sent to sage, and `/sage activities hunt` changing because of it (21 hunts → 22) — the whole use case for Message Content |
+| `screenshots/02-opt-in.png` | `/sage start start` — nothing is recorded until a player registers |
+| `screenshots/03-delete.png` | `/sage start deletemydata`, and its Delete everything button |
+| `screenshots/04-commands.webm` | video: the `/sage` menu, `/sage stats galaxy` with its suggestions, and an `@sage` reply — sage's commands need no Message Content |
+| `screenshots/05-about.png` | `/sage start about` — privacy, terms, your data and how to remove it |
