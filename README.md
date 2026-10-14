@@ -21,4 +21,4 @@ have opted in with `sage start`.
 | `screenshots/04-commands.webm` | video: the `/sage` menu, `/sage stats galaxy` with its suggestions, and an `@sage` reply — sage's commands need no Message Content |
 | `screenshots/05-about.png` | `/sage start about` — privacy, terms, your data and how to remove it |
 
-[rpg_slash_hunt_navi_reply.webm](https://github.com/user-attachments/assets/169e4653-3c3b-4e54-8627-69f7b7a17389)
+[04-commands.webm](https://github.com/user-attachments/assets/aebfc756-fbad-40ef-8a89-2a71949994e1)
